@@ -1,0 +1,1 @@
+Bu repo [Patika.Dev](https://app.patika.dev/paths/baslangic-seviyesi-net-core-patikasi) tarafından verilen Asp.Net Core Başlangı Seviyesi Eğitimi içerisindeki Veri Yapıları Kursunun Projelerini içermektedir.

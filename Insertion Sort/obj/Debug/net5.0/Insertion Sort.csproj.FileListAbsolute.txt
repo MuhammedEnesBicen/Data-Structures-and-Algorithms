@@ -1,0 +1,16 @@
+C:\Users\enesbicen\source\repos\_RiderProjects\Data structures and algortihms\Insertion Sort\bin\Debug\net5.0\Insertion Sort.exe
+C:\Users\enesbicen\source\repos\_RiderProjects\Data structures and algortihms\Insertion Sort\bin\Debug\net5.0\Insertion Sort.deps.json
+C:\Users\enesbicen\source\repos\_RiderProjects\Data structures and algortihms\Insertion Sort\bin\Debug\net5.0\Insertion Sort.runtimeconfig.json
+C:\Users\enesbicen\source\repos\_RiderProjects\Data structures and algortihms\Insertion Sort\bin\Debug\net5.0\Insertion Sort.runtimeconfig.dev.json
+C:\Users\enesbicen\source\repos\_RiderProjects\Data structures and algortihms\Insertion Sort\bin\Debug\net5.0\Insertion Sort.dll
+C:\Users\enesbicen\source\repos\_RiderProjects\Data structures and algortihms\Insertion Sort\bin\Debug\net5.0\ref\Insertion Sort.dll
+C:\Users\enesbicen\source\repos\_RiderProjects\Data structures and algortihms\Insertion Sort\bin\Debug\net5.0\Insertion Sort.pdb
+C:\Users\enesbicen\source\repos\_RiderProjects\Data structures and algortihms\Insertion Sort\obj\Debug\net5.0\Insertion Sort.csproj.AssemblyReference.cache
+C:\Users\enesbicen\source\repos\_RiderProjects\Data structures and algortihms\Insertion Sort\obj\Debug\net5.0\Insertion Sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enesbicen\source\repos\_RiderProjects\Data structures and algortihms\Insertion Sort\obj\Debug\net5.0\Insertion Sort.AssemblyInfoInputs.cache
+C:\Users\enesbicen\source\repos\_RiderProjects\Data structures and algortihms\Insertion Sort\obj\Debug\net5.0\Insertion Sort.AssemblyInfo.cs
+C:\Users\enesbicen\source\repos\_RiderProjects\Data structures and algortihms\Insertion Sort\obj\Debug\net5.0\Insertion Sort.csproj.CoreCompileInputs.cache
+C:\Users\enesbicen\source\repos\_RiderProjects\Data structures and algortihms\Insertion Sort\obj\Debug\net5.0\Insertion Sort.dll
+C:\Users\enesbicen\source\repos\_RiderProjects\Data structures and algortihms\Insertion Sort\obj\Debug\net5.0\ref\Insertion Sort.dll
+C:\Users\enesbicen\source\repos\_RiderProjects\Data structures and algortihms\Insertion Sort\obj\Debug\net5.0\Insertion Sort.pdb
+C:\Users\enesbicen\source\repos\_RiderProjects\Data structures and algortihms\Insertion Sort\obj\Debug\net5.0\Insertion Sort.genruntimeconfig.cache

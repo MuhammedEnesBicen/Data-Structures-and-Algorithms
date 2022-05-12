@@ -1,0 +1,16 @@
+C:\Users\enesbicen\source\repos\_RiderProjects\Data structures and algortihms\BST Tree\bin\Debug\net5.0\BST Tree.exe
+C:\Users\enesbicen\source\repos\_RiderProjects\Data structures and algortihms\BST Tree\bin\Debug\net5.0\BST Tree.deps.json
+C:\Users\enesbicen\source\repos\_RiderProjects\Data structures and algortihms\BST Tree\bin\Debug\net5.0\BST Tree.runtimeconfig.json
+C:\Users\enesbicen\source\repos\_RiderProjects\Data structures and algortihms\BST Tree\bin\Debug\net5.0\BST Tree.runtimeconfig.dev.json
+C:\Users\enesbicen\source\repos\_RiderProjects\Data structures and algortihms\BST Tree\bin\Debug\net5.0\BST Tree.dll
+C:\Users\enesbicen\source\repos\_RiderProjects\Data structures and algortihms\BST Tree\bin\Debug\net5.0\ref\BST Tree.dll
+C:\Users\enesbicen\source\repos\_RiderProjects\Data structures and algortihms\BST Tree\bin\Debug\net5.0\BST Tree.pdb
+C:\Users\enesbicen\source\repos\_RiderProjects\Data structures and algortihms\BST Tree\obj\Debug\net5.0\BST Tree.csproj.AssemblyReference.cache
+C:\Users\enesbicen\source\repos\_RiderProjects\Data structures and algortihms\BST Tree\obj\Debug\net5.0\BST Tree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enesbicen\source\repos\_RiderProjects\Data structures and algortihms\BST Tree\obj\Debug\net5.0\BST Tree.AssemblyInfoInputs.cache
+C:\Users\enesbicen\source\repos\_RiderProjects\Data structures and algortihms\BST Tree\obj\Debug\net5.0\BST Tree.AssemblyInfo.cs
+C:\Users\enesbicen\source\repos\_RiderProjects\Data structures and algortihms\BST Tree\obj\Debug\net5.0\BST Tree.csproj.CoreCompileInputs.cache
+C:\Users\enesbicen\source\repos\_RiderProjects\Data structures and algortihms\BST Tree\obj\Debug\net5.0\BST Tree.dll
+C:\Users\enesbicen\source\repos\_RiderProjects\Data structures and algortihms\BST Tree\obj\Debug\net5.0\ref\BST Tree.dll
+C:\Users\enesbicen\source\repos\_RiderProjects\Data structures and algortihms\BST Tree\obj\Debug\net5.0\BST Tree.pdb
+C:\Users\enesbicen\source\repos\_RiderProjects\Data structures and algortihms\BST Tree\obj\Debug\net5.0\BST Tree.genruntimeconfig.cache

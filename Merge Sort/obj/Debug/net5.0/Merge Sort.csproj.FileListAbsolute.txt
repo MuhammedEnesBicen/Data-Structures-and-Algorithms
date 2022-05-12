@@ -1,0 +1,16 @@
+C:\Users\enesbicen\source\repos\_RiderProjects\Data structures and algortihms\Merge Sort\bin\Debug\net5.0\Merge Sort.exe
+C:\Users\enesbicen\source\repos\_RiderProjects\Data structures and algortihms\Merge Sort\bin\Debug\net5.0\Merge Sort.deps.json
+C:\Users\enesbicen\source\repos\_RiderProjects\Data structures and algortihms\Merge Sort\bin\Debug\net5.0\Merge Sort.runtimeconfig.json
+C:\Users\enesbicen\source\repos\_RiderProjects\Data structures and algortihms\Merge Sort\bin\Debug\net5.0\Merge Sort.runtimeconfig.dev.json
+C:\Users\enesbicen\source\repos\_RiderProjects\Data structures and algortihms\Merge Sort\bin\Debug\net5.0\Merge Sort.dll
+C:\Users\enesbicen\source\repos\_RiderProjects\Data structures and algortihms\Merge Sort\bin\Debug\net5.0\ref\Merge Sort.dll
+C:\Users\enesbicen\source\repos\_RiderProjects\Data structures and algortihms\Merge Sort\bin\Debug\net5.0\Merge Sort.pdb
+C:\Users\enesbicen\source\repos\_RiderProjects\Data structures and algortihms\Merge Sort\obj\Debug\net5.0\Merge Sort.csproj.AssemblyReference.cache
+C:\Users\enesbicen\source\repos\_RiderProjects\Data structures and algortihms\Merge Sort\obj\Debug\net5.0\Merge Sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enesbicen\source\repos\_RiderProjects\Data structures and algortihms\Merge Sort\obj\Debug\net5.0\Merge Sort.AssemblyInfoInputs.cache
+C:\Users\enesbicen\source\repos\_RiderProjects\Data structures and algortihms\Merge Sort\obj\Debug\net5.0\Merge Sort.AssemblyInfo.cs
+C:\Users\enesbicen\source\repos\_RiderProjects\Data structures and algortihms\Merge Sort\obj\Debug\net5.0\Merge Sort.csproj.CoreCompileInputs.cache
+C:\Users\enesbicen\source\repos\_RiderProjects\Data structures and algortihms\Merge Sort\obj\Debug\net5.0\Merge Sort.dll
+C:\Users\enesbicen\source\repos\_RiderProjects\Data structures and algortihms\Merge Sort\obj\Debug\net5.0\ref\Merge Sort.dll
+C:\Users\enesbicen\source\repos\_RiderProjects\Data structures and algortihms\Merge Sort\obj\Debug\net5.0\Merge Sort.pdb
+C:\Users\enesbicen\source\repos\_RiderProjects\Data structures and algortihms\Merge Sort\obj\Debug\net5.0\Merge Sort.genruntimeconfig.cache
