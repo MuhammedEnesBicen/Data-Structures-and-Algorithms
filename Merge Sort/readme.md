@@ -4,5 +4,6 @@ Proje 2
 Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
 
 ![mergesort](https://github.com/MuhammedEnesBicen/Data-Structures-and-Algorithms/blob/master/Merge%20Sort/mergesort.jpg)
+
 Big-O gösterimini yazınız.
 O(nLogn)
